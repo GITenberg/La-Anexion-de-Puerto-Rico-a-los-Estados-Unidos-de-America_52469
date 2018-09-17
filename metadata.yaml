@@ -1,0 +1,23 @@
+_repo: La-Anexion-de-Puerto-Rico-a-los-Estados-Unidos-de-America_52469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nieves, Juan B.
+    gutenberg_agent_id: '46873'
+    url: http://www.gutenberg.org/2009/agents/46873
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52469'
+  lccn: '12005447'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1951'
+- !lcsh 'Puerto Rico -- Annexation to the United States'
+- GITenberg
+title: La Anexión de Puerto-Rico a los Estados Unidos de America
+url: http://www.gutenberg.org/ebooks/52469
